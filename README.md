@@ -47,8 +47,6 @@ Sign Language Detection/
 * Images were collected using a webcam under different angles and lighting.
 * Dataset is used to train a **CNN model** for classification.
 
----
-
 ## 📸 **Data Collection Process**
 
 Hand landmarks are detected and cropped before saving images.
@@ -61,8 +59,6 @@ images/data_collection.png
 
 ![Data Collection](image/data_collection.png)
 
----
-
 ## 🧠 **Model Training**
 
 * **data_collection.py** → collects gesture images
@@ -73,8 +69,6 @@ images/data_collection.png
   * **label_dict.pkl** → maps numbers to alphabets
 
 The model predicts one alphabet at a time and outputs the most confident class.
-
----
 
 ## ▶️ **How to Run the Project**
 
@@ -92,8 +86,6 @@ The model predicts one alphabet at a time and outputs the most confident class.
 
 3. Show hand gestures in front of the webcam to see predictions.
 
----
-
 ## 📷 **Real-Time Output & Word Formation**
 
 ### 🔹 **Alphabet Prediction with Highlighted Hand**
@@ -109,8 +101,6 @@ images/hand_landmarks.png
 ![Hand Detection](image/hand_landmarks_1.png)
 
 ![Hand Detection](image/hand_landmarks_2.png)
-
----
 
 ## 🔠 **Word Formation Example – HELLO**
 
@@ -157,8 +147,6 @@ images/hello_o.png
 ✅ **Final Output:**
 **HELLO**
 
----
-
 ## 🔠 **Word Formation Example – GO**
 
 **Step 1: G**
@@ -180,8 +168,6 @@ images/go_o.png
 ✅ **Final Output:**
 **GO**
 
----
-
 ## 🚀 **Future Scope**
 
 * Sentence-level translation
@@ -189,10 +175,6 @@ images/go_o.png
 * GUI or web-based interface
 * Support for dynamic gestures
 
----
-
 ## 👩‍💻 **Author**
 
 **Abirah Zaidi**
-
----
