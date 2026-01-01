@@ -2,12 +2,16 @@
 
 This project is an **AI-based Sign Language Translator** that recognizes **hand gestures (A–Z)** in real time using a webcam and converts them into **letters and words** such as **HELLO** and **GO**.
 
+```
+
 ## 📌 **Project Description**
 
 The system uses **computer vision and deep learning** to detect hand gestures and predict corresponding alphabets.
 Each detected letter is **highlighted on screen** and letters are combined step by step to form words.
 
 This project is designed to support **basic communication** for the hearing and speech-impaired community.
+
+```
 
 ## ✨ **Key Features**
 
@@ -18,6 +22,8 @@ This project is designed to support **basic communication** for the hearing and 
 * **Hand type (Left/Right) detection**
 * **Highlighted bounding box and predicted letter**
 
+```
+
 ## 🛠️ **Technologies Used**
 
 * **Python**
@@ -27,9 +33,10 @@ This project is designed to support **basic communication** for the hearing and 
 * **NumPy**
 * **cvzone**
 
+```
+
 ## 📂 **Project Structure**
 
-```
 Sign Language Detection/
 │
 ├── Data/                      # Dataset folders (A–Z images)
@@ -41,7 +48,6 @@ Sign Language Detection/
 ├── sign_language_model.h5     # Trained model (local)
 ├── .gitignore
 └── README.md
-```
 
 ---
 
@@ -104,13 +110,15 @@ The model predicts one alphabet at a time and outputs the most confident class.
 
 The detected hand is **highlighted** and the predicted letter is shown clearly.
 
-**Image path:**
+**Hand Landmarks:**
 
 ```
-images/hand_detection.png
+images/hand_landmarks.png
 ```
 
-![Hand Detection](image/hand_detection.png)
+![Hand Detection](image/hand_landmarks_1.png)
+
+![Hand Detection](image/hand_landmarks_2.png)
 
 ---
 
