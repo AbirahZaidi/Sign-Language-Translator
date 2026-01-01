@@ -128,15 +128,7 @@ images/hello_l.png
 
 ![L](image/hello_l.png)
 
-**Step 4: L**
-
-```
-images/hello_l.png
-```
-
-![L](image/hello_l.png)
-
-**Step 5: O**
+**Step 4: O**
 
 ```
 images/hello_o.png
