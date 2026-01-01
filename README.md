@@ -63,7 +63,7 @@ Hand landmarks are detected and cropped before saving images.
 images/data_collection.png
 ```
 
-![Data Collection](images/data_collection.png)
+![Data Collection](image/data_collection.png)
 
 ---
 
@@ -110,7 +110,7 @@ The detected hand is **highlighted** and the predicted letter is shown clearly.
 images/hand_detection.png
 ```
 
-![Hand Detection](images/hand_detection.png)
+![Hand Detection](image/hand_detection.png)
 
 ---
 
@@ -122,7 +122,7 @@ images/hand_detection.png
 images/hello_h.png
 ```
 
-![H](images/hello_h.png)
+![H](image/hello_h.png)
 
 **Step 2: E**
 
@@ -130,7 +130,7 @@ images/hello_h.png
 images/hello_e.png
 ```
 
-![E](images/hello_e.png)
+![E](image/hello_e.png)
 
 **Step 3: L**
 
@@ -138,7 +138,7 @@ images/hello_e.png
 images/hello_l.png
 ```
 
-![L](images/hello_l.png)
+![L](image/hello_l.png)
 
 **Step 4: L**
 
@@ -146,7 +146,7 @@ images/hello_l.png
 images/hello_l.png
 ```
 
-![L](images/hello_l.png)
+![L](image/hello_l.png)
 
 **Step 5: O**
 
@@ -154,7 +154,7 @@ images/hello_l.png
 images/hello_o.png
 ```
 
-![O](images/hello_o.png)
+![O](image/hello_o.png)
 
 ✅ **Final Output:**
 **HELLO**
@@ -169,7 +169,7 @@ images/hello_o.png
 images/go_g.png
 ```
 
-![G](images/go_g.png)
+![G](image/go_g.png)
 
 **Step 2: O**
 
@@ -177,7 +177,7 @@ images/go_g.png
 images/go_o.png
 ```
 
-![O](images/go_o.png)
+![O](image/go_o.png)
 
 ✅ **Final Output:**
 **GO**
@@ -198,8 +198,3 @@ images/go_o.png
 **Abirah Zaidi**
 
 ---
-
-* 🎤 **Viva explanation (Q&A)**
-* 🧾 **Resume project points**
-
-Just tell me 💙
